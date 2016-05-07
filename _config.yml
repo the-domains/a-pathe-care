@@ -1,0 +1,28 @@
+name: A-pathe-carë
+favicon: null
+layout_spectrum: 0.06180110084824264
+typography_spectrum: 0.36204683873802423
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6935429621953517
+  lightness: 0.6705197864212096
+  saturation: 0.611725444206968
+  rhythmicContrast: 0.5835759188048542
+purpose: []
